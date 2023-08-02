@@ -3,29 +3,22 @@
 🚀 About Me
 I'm a graduating student at BCIT looking for employment.
 
-🔭 I’m currently working on
-
+🔭 I’m currently working on creating a Raycaster using OpenGL and C++
 
 🌱 I’m currently learning
-Flutter, TypeScript, 
-
-💬 Ask me about
-[Insert topics you're knowledgeable about and willing to help others with here]
+TypeScript, C++, OpenGL, GLSL
 
 📫 How to reach me
-[Insert your email address and/or social media handles here]
+kimbasillio@gmail.com
 
 ⚡ Fun fact
-[Insert a fun fact about yourself here]
-
-Feel free to use this template and customize it to your liking! -->
+I make silver jewelry!
 
 
 
 
 
-
-[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basil-kim)](https://github.com/basil-kim/github-readme-stats)
+<!-- [![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basil-kim)](https://github.com/basil-kim/github-readme-stats) -->
 
 <!--
 **Basil-Kim/Basil-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
